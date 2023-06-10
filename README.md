@@ -1,4 +1,6 @@
-# Portfolio
+# Portfolio 
+
+## Live Demo
 
 ## User Story
 AS AN employer
@@ -21,6 +23,6 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 Mock-Up
 
- <img src="./assets/images/portfolio1.png" alt="password-challenge">
- <img src="./assets/images/portfolio2.png" alt="password-challenge">
+ <img src="./assets/images/portfolio1.png" alt="portfolio1">
+ <img src="./assets/images/portfolio2.png" alt="portfolio2">
 
