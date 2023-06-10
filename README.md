@@ -1,6 +1,5 @@
 # Portfolio 
 
-## Live Demo 
 <a href="https://yasminetsu.github.io/Module-2-Portfolio/">
             <img src="./assets/images/live demo.webp" alt="live-logo">
 
